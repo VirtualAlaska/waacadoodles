@@ -1,0 +1,19 @@
+{
+    "name": "goatishduck",
+    "description": "honorary aye-aye for goatishduck, who discovered aye-aye coin, deployed $WAAC, and created the waacadoodles contract",
+    "image": "ipfs://QmV8RHWoKA6k7HswMWkoBshiXSWPb3FArUS61HXy2ovgNp",
+    "attributes": [
+      {
+        "trait_type": "rarity",
+        "value": "honorary"
+      },
+      {
+        "trait_type": "max supply",
+        "value": "1"
+      },
+      {
+        "trait_type": "proof of $WAAC amount",
+        "value": "n/a"
+      }
+    ]
+  }

@@ -1,0 +1,19 @@
+{
+    "name": "aye-ayelien",
+    "description": "the rarest of aye-ayes, inspired by the aliens of cryptopunks",
+    "image": "ipfs://Qmb2Kc7LcMF7AJr1dHzEKYfgcELzzdD1sroRBpGEJgQhWf",
+    "attributes": [
+      {
+        "trait_type": "rarity",
+        "value": "legendary"
+      },
+      {
+        "trait_type": "max supply",
+        "value": "6"
+      },
+      {
+        "trait_type": "proof of $WAAC amount",
+        "value": "100,000"
+      }
+    ]
+  }

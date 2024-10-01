@@ -1,0 +1,19 @@
+{
+    "name": "ariana",
+    "description": "honorary aye-aye for ariana, the artist behind waacadoodles",
+    "image": "ipfs://linkhere",
+    "attributes": [
+      {
+        "trait_type": "rarity",
+        "value": "honorary"
+      },
+      {
+        "trait_type": "max supply",
+        "value": "1"
+      },
+      {
+        "trait_type": "proof of $WAAC amount",
+        "value": "n/a"
+      }
+    ]
+  }

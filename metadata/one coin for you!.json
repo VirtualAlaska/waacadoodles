@@ -1,0 +1,19 @@
+{
+    "name": "one coin for you!",
+    "description": "ayeayecoin love! one coin for you!",
+    "image": "ipfs://QmVZSUbsscacstj9xi3pn2bdxoCRDB3KKuCYDCceuaHtuP",
+    "attributes": [
+      {
+        "trait_type": "rarity",
+        "value": "uncommon"
+      },
+      {
+        "trait_type": "max supply",
+        "value": "600"
+      },
+      {
+        "trait_type": "proof of $WAAC amount",
+        "value": "100"
+      }
+    ]
+  }

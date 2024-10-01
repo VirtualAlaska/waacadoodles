@@ -1,0 +1,19 @@
+{
+    "name": "nft relics",
+    "description": "celebrating the nft relics community, where the discovery of ayeayecoin happened! join today: https://discord.com/invite/nft-relics",
+    "image": "ipfs://QmYzU5n1QqbdcdZQiezJ87qiKdriEJYwncGJKdHT4YuRto",
+    "attributes": [
+      {
+        "trait_type": "rarity",
+        "value": "ultra rare"
+      },
+      {
+        "trait_type": "max supply",
+        "value": "60"
+      },
+      {
+        "trait_type": "proof of $WAAC amount",
+        "value": "10,000"
+      }
+    ]
+  }

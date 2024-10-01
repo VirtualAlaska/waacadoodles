@@ -1,0 +1,19 @@
+{
+    "name": "aye-aye",
+    "description": "the mascot of ayeayecoin and nft relics",
+    "image": "ipfs://QmSos9XVYpfJFA4co1qtthC6wkXTupka5zFty8JKnSL1AY",
+    "attributes": [
+      {
+        "trait_type": "rarity",
+        "value": "common"
+      },
+      {
+        "trait_type": "max supply",
+        "value": "2015"
+      },
+      {
+        "trait_type": "proof of $WAAC amount",
+        "value": "10"
+      }
+    ]
+  }

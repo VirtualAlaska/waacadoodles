@@ -1,0 +1,19 @@
+{
+    "name": "mogged",
+    "description": "$WAAC mogged all other mememcoins on ethereum by simply existing in august of 2015",
+    "image": "ipfs://QmWnj4TyfFrzhtvLLJmjmrxSbH2dBPyUCgEHAufpCdt6G9",
+    "attributes": [
+      {
+        "trait_type": "rarity",
+        "value": "uncommon"
+      },
+      {
+        "trait_type": "max supply",
+        "value": "600"
+      },
+      {
+        "trait_type": "proof of $WAAC amount",
+        "value": "100"
+      }
+    ]
+  }

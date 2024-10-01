@@ -1,0 +1,19 @@
+{
+    "name": "hoodie aye-aye",
+    "description": "a hooded aye-aye, inspired by the hooded cryptopunks",
+    "image": "ipfs://QmZTry1gzCPknZ3wxgQCABKuZJs4TJYko1LJDUP1ZgPkW8",
+    "attributes": [
+      {
+        "trait_type": "rarity",
+        "value": "rare"
+      },
+      {
+        "trait_type": "max supply",
+        "value": "100"
+      },
+      {
+        "trait_type": "proof of $WAAC amount",
+        "value": "1,000"
+      }
+    ]
+  }
