@@ -1,0 +1,19 @@
+{
+    "name": "swole aye-aye",
+    "description": "honorary aye-aye",
+    "image": "ipfs://bafkreicqgzkgq2qg7kbkrxa32gbexrkitkss2aznsr7wvnyrpuvqwytgve",
+    "attributes": [
+      {
+        "trait_type": "rarity",
+        "value": "honorary"
+      },
+      {
+        "trait_type": "max supply",
+        "value": "1"
+      },
+      {
+        "trait_type": "proof of $WAAC amount",
+        "value": "n/a"
+      }
+    ]
+  }

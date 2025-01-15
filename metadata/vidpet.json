@@ -1,0 +1,19 @@
+{
+    "name": "vidpet",
+    "description": "honorary aye-aye for vidpet",
+    "image": "ipfs://bafkreibjokwngbizbivunjunlib6rz3g7zm6ix6lrl4cg6nvskz6y4ue7e",
+    "attributes": [
+      {
+        "trait_type": "rarity",
+        "value": "honorary"
+      },
+      {
+        "trait_type": "max supply",
+        "value": "1"
+      },
+      {
+        "trait_type": "proof of $WAAC amount",
+        "value": "n/a"
+      }
+    ]
+  }

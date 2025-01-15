@@ -1,0 +1,19 @@
+{
+    "name": "cryptobiot",
+    "description": "honorary aye-aye for cryptobiot",
+    "image": "ipfs://bafkreihcf43qjddf7un3ylgmcjqzc7qvlx2uba2ipu2dyejfdtz3wdhxxa",
+    "attributes": [
+      {
+        "trait_type": "rarity",
+        "value": "honorary"
+      },
+      {
+        "trait_type": "max supply",
+        "value": "1"
+      },
+      {
+        "trait_type": "proof of $WAAC amount",
+        "value": "n/a"
+      }
+    ]
+  }

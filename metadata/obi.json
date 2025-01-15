@@ -1,0 +1,19 @@
+{
+    "name": "obi",
+    "description": "honorary aye-aye for obi",
+    "image": "ipfs://bafkreiditwrwoiqkgysco4ws5u7zhtwqrrbau7tz5h3ga6t2f6yjck2bqq",
+    "attributes": [
+      {
+        "trait_type": "rarity",
+        "value": "honorary"
+      },
+      {
+        "trait_type": "max supply",
+        "value": "1"
+      },
+      {
+        "trait_type": "proof of $WAAC amount",
+        "value": "n/a"
+      }
+    ]
+  }

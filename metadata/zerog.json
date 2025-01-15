@@ -1,0 +1,19 @@
+{
+    "name": "zerog",
+    "description": "honorary aye-aye for zerog",
+    "image": "ipfs://bafkreier6jtowhw44qx4nh2rcoltxrbbhxyd7glalcrlmhmdrnz5gkpf5e",
+    "attributes": [
+      {
+        "trait_type": "rarity",
+        "value": "honorary"
+      },
+      {
+        "trait_type": "max supply",
+        "value": "1"
+      },
+      {
+        "trait_type": "proof of $WAAC amount",
+        "value": "n/a"
+      }
+    ]
+  }
